@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mudassir I Mustafa
 - 👀 I’m interested in designing digitial technologies for healthcare research
-- 🌱 I’m currently learning React, Python, Typescript 
-- 💞️ I’m looking to collaborate on front-end development 
+- 🌱 I’m currently learning Federated learning, AI/ML Integration 
+- 💞️ I’m looking to collaborate on Design Research 
 - 📫 How to reach me tweet @mudassir_imran
 
 <!---
