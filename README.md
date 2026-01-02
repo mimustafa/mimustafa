@@ -4,7 +4,7 @@
 
 I am a **design researcher** with extensive experience in **Information Systems** and **Health Informatics**, focusing on:
 
-- Applied, interdisciplinary, and design-oriented research [Design Science Research (DSR)** and **Action Design Research (ADR)]
+- Applied, interdisciplinary, and design-oriented research
 - Strong qualitative and quantitative research methods
 - Collaboration with multidisciplinary teams
 
@@ -14,9 +14,9 @@ With:
 
 - **20+ years** of full-stack software development
 - **3,600+ hours** of higher-education teaching
-- Continuous engagement in **Information Systems** research
+- Continuous engagement in **Information Systems research**
 
-I bring a **unique blend of academic rigor and production-grade software engineering expertise**. My academic goal is to **advance knowledge while addressing real-world challenges** through interdisciplinary collaboration.
+I bring a **unique blend of academic rigor and production-grade engineering expertise**. My academic goal is to **advance knowledge while addressing real-world challenges** through interdisciplinary collaboration.
 
 ---
 
@@ -57,12 +57,9 @@ I bring a **unique blend of academic rigor and production-grade software enginee
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="48" style="margin-right: 8px;"/></a>
 </p>
 
-### 🧠 APIs, Storage, & Caching
+### 🧠 Storage
 
 <p align="left">
-  <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" height="48" style="margin-right: 8px;"/></a> 
-  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="48" style="margin-right: 8px;"/></a>  
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="48" style="margin-right: 8px;"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" title="MariaDB" height="48" style="margin-right: 8px;"/></a>
@@ -75,15 +72,18 @@ I bring a **unique blend of academic rigor and production-grade software enginee
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" title="Kubernetes" height="48" style="margin-right: 8px;"/></a> 
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" title="Kubernetes" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="48" style="margin-right: 8px;"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="CI/CD Pipelines">CI/CD Pipelines</a>  
-  <br/>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" height="48" style="margin-right: 8px;"/></a>  
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Microsoft Azure" title="Microsoft Azure" height="48" style="margin-right: 8px;"/></a>  
   <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.openstack.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original-wordmark.svg" alt="OpenStack" title="OpenStack" height="48" style="margin-right: 8px;"/></a>
+  <br/>
+  <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a>
+  <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="CI/CD Pipelines">CI/CD Pipelines</a>  
   <a href="https://microservices.io/" target="_blank"> Microservices Architecture</a>
   <a href="https://micro-frontends.org/" target="_blank">Micro-Frontend Architecture</a>
 </p>
@@ -91,10 +91,10 @@ I bring a **unique blend of academic rigor and production-grade software enginee
 ### 🎓 Learning Platforms & Content Management Systems
 
 <p align="left">
-  <a href="https://openedx.org/" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2021/01/Open_edX_Logo.png" alt="Open edX Platform" title="Open edX Platform" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://moodle.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/moodle/moodle-ar21.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://openedx.org/" target="_blank"><img src="https://openedx.org/wp-content/uploads/2020/12/Open-edX-horz-WHITE.svg" alt="Open edX Platform" title="Open edX Platform" height="48" style="margin-right: 8px; background-color: #000;"/></a>
+  <a href="https://moodle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/moodle-original-wordmark.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" title="WordPress" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://www.django-cms.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django CMS" title="Django CMS" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.django-cms.org/" target="_blank"><img src="https://www.django-cms.org/static/img/django-logo.5a628ab12e3f.svg" alt="Django CMS" title="Django CMS" height="48" style="margin-right: 8px; background-color: #000;"/></a>
 </p>
 
 ---
