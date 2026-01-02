@@ -16,16 +16,17 @@ I work at the **intersection of academia and industry**, combining **design rese
 
 I am a **design researcher** with extensive experience in **Information Systems** and **Health Informatics**, focusing on:
 
-- Applied, interdisciplinary, and design-oriented research  
-- **Design Science Research (DSR)** and **Action Design Research (ADR)**  
-- Strong qualitative and quantitative research methods  
-- Collaboration with multidisciplinary teams, including healthcare professionals and stakeholders  
+- Applied, interdisciplinary, and design-oriented research
+- **Design Science Research (DSR)** and **Action Design Research (ADR)**
+- Strong qualitative and quantitative research methods
+- Collaboration with multidisciplinary teams, including healthcare professionals and stakeholders
 
 Driven by curiosity and a passion for innovation, I work where **theory meets practice** combining **research, teaching, and system development** to create meaningful technological impact.
 
 With:
-- **20+ years** of full-stack software development  
-- **3,600+ hours** of higher-education teaching  
+
+- **20+ years** of full-stack software development
+- **3,600+ hours** of higher-education teaching
 - Continuous engagement in **design research and digital health innovation**
 
 …I bring a **unique blend of academic rigor and production-grade engineering expertise**. My academic goal is to **advance knowledge while addressing real-world challenges** through interdisciplinary collaboration.
@@ -35,87 +36,90 @@ With:
 ## 🧩 Technical Skills
 
 ### 💻 Programming Languages & Core Frameworks
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" width="36" height="36"/>    
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" style="margin-right: 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" height="48" style="margin-right: 8px;"/>    
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48" style="margin-right: 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="48" style="margin-right: 8px;"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" height="48" style="margin-right: 8px;"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
 </p>
 
 ### 🎨 Frontend & UI
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36" height="36"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" height="36"/>
-  <img src="https://cdn.candycode.com/jotai/jotai-mascot.png" width="36" height="36"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="48" style="margin-right: 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://cdn.candycode.com/jotai/jotai-mascot.png" height="48" style="margin-right: 8px;"/> 
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="36" height="36"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="48" style="margin-right: 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="48" style="margin-right: 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="48" style="margin-right: 8px;"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
 </p>
 
 ### 🧠 APIs, Storage, Caching & System Architecture
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" width="36" height="36"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" height="48" style="margin-right: 8px;"/> 
   REST APIs  · Microservices · Micro-Frontend Architecture  
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="36" height="36"/>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36"/>   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36" height="36"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="48" style="margin-right: 8px;"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="48" style="margin-right: 8px;"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="48" style="margin-right: 8px;"/>   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="48" style="margin-right: 8px;"/> 
 </p>
 
 ### ☁️ DevOps, Cloud & Infrastructure
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="36" height="36"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/> · CI/CD Pipelines  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" height="48" style="margin-right: 8px;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="48" style="margin-right: 8px;"/> · CI/CD Pipelines  
   <br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="36" height="36"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original-wordmark.svg" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" style="margin-right: 8px;"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" height="48" style="margin-right: 8px;"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original-wordmark.svg" height="48" style="margin-right: 8px;"/>
 </p>
 
 ---
 
 ## 🎓 Learning Platforms & Content Management Systems
 
-- **Open edX Platform** (custom development & integrations)  
-- **Moodle LMS**  
-- **WordPress**  
-- **Django CMS**  
-- Custom-built learning and research platforms  
-
+- **Open edX Platform** (custom development & integrations)
+- **Moodle LMS**
+- **WordPress**
+- **Django CMS**
+- Custom-built learning and research platforms
 
 ## 🏥 Healthcare & Research Domain Expertise
 
-- Health Informatics  
-- Clinical Research & Clinical Trials  
-- Good Clinical Practice (GCP)  
-- Clinical Trial Management Systems (CTMS)  
-- REDCap  
-- Qualitative Research  
+- Health Informatics
+- Clinical Research & Clinical Trials
+- Good Clinical Practice (GCP)
+- Clinical Trial Management Systems (CTMS)
+- REDCap
+- Qualitative Research
 - User Research & Human-Centered Design
 - Scrum · Agile Product Ownership
 - System Architecture · Technical Leadership
@@ -127,11 +131,10 @@ With:
 Colleagues describe me as **cooperative, adaptable, and humble**, with a strong ability to boost team morale.  
 I actively foster **inclusive, collaborative environments** and thrive both in:
 
-- Team-based, multidisciplinary design and development  
-- Independent research design, critical synthesis, and timely delivery  
+- Team-based, multidisciplinary design and development
+- Independent research design, critical synthesis, and timely delivery
 
-
-⭐ *If you’re interested in research-driven digital innovation—especially in healthcare, education, or complex socio-technical systems—feel free to explore my repositories or reach out. Let’s collaborate.*
+⭐ _If you’re interested in research-driven digital innovation—especially in healthcare, education, or complex socio-technical systems—feel free to explore my repositories or reach out. Let’s collaborate._
 
 <!---
 mimustafa/mimustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
