@@ -79,19 +79,19 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Microsoft Azure" title="Microsoft Azure" height="48" style="margin-right: 8px;"/></a>  
   <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.openstack.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original-wordmark.svg" alt="OpenStack" title="OpenStack" height="48" style="margin-right: 8px;"/></a>
-  <br/>
   <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" height="48" style="margin-right: 8px;"/></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a>
+  <br/>
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a> &nbsp; &nbsp;
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="CI/CD Pipelines">CI/CD Pipelines</a>  
-  <a href="https://microservices.io/" target="_blank"> Microservices Architecture</a>
-  <a href="https://micro-frontends.org/" target="_blank">Micro-Frontend Architecture</a>
+  <a href="https://microservices.io/" target="_blank"> Microservices Architecture</a>&nbsp; &nbsp; 
+  <a href="https://micro-frontends.org/" target="_blank">Micro-Frontend Architecture</a> 
 </p>
 
 ### 🎓 Learning Platforms & Content Management Systems
 
 <p align="left">
-  <a href="https://openedx.org/" target="_blank"><img src="https://openedx.org/wp-content/uploads/2020/12/Open-edX-horz-WHITE.svg" alt="Open edX Platform" title="Open edX Platform" height="48" style="margin-right: 8px; background-color: #000;"/></a>
+  <a href="https://openedx.org/" target="_blank"><img src="https://docs.openedx.org/en/latest/_static/open-edx-logo-color.png" alt="Open edX Platform" title="Open edX Platform" height="48" style="margin-right: 8px;"/></a>
   <a href="https://moodle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/moodle-original-wordmark.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" title="WordPress" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.django-cms.org/" target="_blank"><img src="https://www.django-cms.org/static/img/django-logo.5a628ab12e3f.svg" alt="Django CMS" title="Django CMS" height="48" style="margin-right: 8px; background-color: #000;"/></a>
@@ -117,9 +117,8 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
 
 <p align="left">
   <a href="https://snakemake.readthedocs.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/33450111?s=200&v=4" alt="Snakemake" title="Snakemake" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://www.nextflow.io/" target="_blank"><img src="https://github.com/nextflow-io/nextflow/raw/master/docs/images/nextflow-icon.png" alt="Nextflow" title="Nextflow" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.nextflow.io/" target="_blank"><img src="https://www.nextflow.io/img/nextflow.svg" alt="Nextflow" title="Nextflow" height="48" style="margin-right: 8px;"/></a>
   <a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" title="Apache Airflow" height="48" style="margin-right: 8px;"/></a>
-  <br/>
   <a href="https://slurm.schedmd.com/" target="_blank"><img src="https://slurm.schedmd.com/slurm_logo.png" alt="Slurm Workload Manager" title="Slurm Workload Manager" height="48" style="margin-right: 8px;"/></a>
   <a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="S3-compatible Object Storage" title="S3-compatible Object Storage" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.hitachi.com/products/it/datacenter/index.html" target="_blank" title="Hitachi Unified Compute Platform (UCP)">Hitachi UCP</a>
