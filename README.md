@@ -82,9 +82,9 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
   <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" height="48" style="margin-right: 8px;"/></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" height="48" style="margin-right: 8px;"/></a>
   <br/>
-  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a> &nbsp; &nbsp;
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a> &nbsp;
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="CI/CD Pipelines">CI/CD Pipelines</a>  
-  <a href="https://microservices.io/" target="_blank"> Microservices Architecture</a>&nbsp; &nbsp; 
+  <a href="https://microservices.io/" target="_blank"> Microservices Architecture</a>&nbsp; 
   <a href="https://micro-frontends.org/" target="_blank">Micro-Frontend Architecture</a> 
 </p>
 
@@ -92,7 +92,7 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
 
 <p align="left">
   <a href="https://openedx.org/" target="_blank"><img src="https://docs.openedx.org/en/latest/_static/open-edx-logo-color.png" alt="Open edX Platform" title="Open edX Platform" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://moodle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/moodle-original-wordmark.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://moodle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original-wordmark.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
   <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" title="WordPress" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.django-cms.org/" target="_blank"><img src="https://www.django-cms.org/static/img/django-logo.5a628ab12e3f.svg" alt="Django CMS" title="Django CMS" height="48" style="margin-right: 8px; background-color: #000;"/></a>
 </p>
