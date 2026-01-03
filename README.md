@@ -26,61 +26,61 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="48" style="margin-right: 8px;"/></a> 
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" title="Django" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" title="FastAPI" height="48" style="margin-right: 8px;"/></a>    
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" height="48" style="margin-right: 8px;"/></a>    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="48" style="margin-right: 8px;"/></a> 
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" height="48" style="margin-right: 8px;"/></a>  
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" title="Express.js" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" title="jQuery" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" height="48" style="margin-right: 8px;"/></a>
   <br/>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET Framework" title=".NET Framework" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Framework" title=".NET Framework" height="48" style="margin-right: 8px;"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" height="48" style="margin-right: 8px;"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="48" style="margin-right: 8px;"/></a>
   <a href="https://fsharp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" title="F#" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://www.swi-prolog.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" alt="SWI-Prolog" title="SWI-Prolog" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.swi-prolog.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" alt="SWI-Prolog" title="SWI-Prolog" height="48" style="margin-right: 8px;"/></a>
 </p>
 
 ### 🎨 Frontend & UI
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" height="48" style="margin-right: 8px;"/></a> 
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" title="Next.js" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" height="48" style="margin-right: 8px;"/></a> 
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" height="48" style="margin-right: 8px;"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" height="48" style="margin-right: 8px;"/></a>
   <a href="https://jotai.org/" target="_blank"><img src="https://cdn.candycode.com/jotai/jotai-mascot.png" alt="Jotai" title="Jotai" height="48" style="margin-right: 8px;"/></a> 
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" height="48" style="margin-right: 8px;"/></a> 
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" title="Bootstrap" height="48" style="margin-right: 8px;"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" height="48" style="margin-right: 8px;"/></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" title="Bootstrap" height="48" style="margin-right: 8px;"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="48" style="margin-right: 8px;"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="48" style="margin-right: 8px;"/></a>
 </p>
 
 ### 🧠 Storage
 
 <p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" height="48" style="margin-right: 8px;"/></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" title="MariaDB" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="48" style="margin-right: 8px;"/></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="48" style="margin-right: 8px;"/></a>   
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" height="48" style="margin-right: 8px;"/></a>   
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="48" style="margin-right: 8px;"/></a>   
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="48" style="margin-right: 8px;"/></a>
 </p>
 
 ### ☁️ DevOps, Cloud Infrastructure & System Architecture
 
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" title="Kubernetes" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="48" style="margin-right: 8px;"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" height="48" style="margin-right: 8px;"/></a>  
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Microsoft Azure" title="Microsoft Azure" height="48" style="margin-right: 8px;"/></a>  
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://www.openstack.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original-wordmark.svg" alt="OpenStack" title="OpenStack" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" height="48" style="margin-right: 8px;"/></a>  
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" title="Microsoft Azure" height="48" style="margin-right: 8px;"/></a>  
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" title="Google Cloud Platform" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://www.openstack.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" alt="OpenStack" title="OpenStack" height="48" style="margin-right: 8px;"/></a>
   <a href="https://nginx.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" height="48" style="margin-right: 8px;"/></a>
   <br/>
   <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> {REST} </a> &nbsp;
   <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank" title="CI/CD Pipelines">CI/CD Pipelines</a>  
@@ -92,8 +92,8 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
 
 <p align="left">
   <a href="https://openedx.org/" target="_blank"><img src="https://docs.openedx.org/en/latest/_static/open-edx-logo-color.png" alt="Open edX Platform" title="Open edX Platform" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://moodle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original-wordmark.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" title="WordPress" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://moodle.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" alt="Moodle LMS" title="Moodle LMS" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" title="WordPress" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.django-cms.org/" target="_blank"><img src="https://www.django-cms.org/static/img/django-logo.5a628ab12e3f.svg" alt="Django CMS" title="Django CMS" height="48" style="margin-right: 8px; background-color: #000;"/></a>
 </p>
 
