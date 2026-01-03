@@ -36,7 +36,7 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
   <br/>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="48" style="margin-right: 8px;"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET Framework" title=".NET Framework" height="48" style="margin-right: 8px;"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" height="48" style="margin-right: 8px;"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" title=".NET Core" height="48" style="margin-right: 8px;"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="48" style="margin-right: 8px;"/></a>
   <a href="https://fsharp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" title="F#" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="48" style="margin-right: 8px;"/></a>
