@@ -100,8 +100,8 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
 - 🌐 **Website**: [mimustafa.github.io](https://mimustafa.github.io)
 - 🌐 **LinkedIn**: [mudassirimran](https://www.linkedin.com/in/mudassirimran/)
 - 📱 **X**: [@mudassir_imran](https://x.com/mudassir_imran)
-- 📱 **ResearchGate**: [mudassirimran](https://www.researchgate.net/profile/Mudassir-Mustafa)
-- 📱 **ORCID**: [mudassirimran](https://orcid.org/0000-0003-0368-1860)
+- 📱 **ResearchGate**: [Information Systems Researcher](https://www.researchgate.net/profile/Mudassir-Mustafa)
+- 📱 **ORCID**: [0000-0003-0368-1860](https://orcid.org/0000-0003-0368-1860)
 
 <!---
 mimustafa/mimustafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
