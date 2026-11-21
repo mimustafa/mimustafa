@@ -6,7 +6,9 @@ I am a **design researcher** with extensive experience in **Information Systems*
 
 - Applied, interdisciplinary, and design-oriented research
 - Strong qualitative and quantitative research methods
+- Agentic AI, AI Agents,and Human–AI collaboration
 - Collaboration with multidisciplinary teams
+
 
 I work at the **intersection of academia and industry**, combining **design research, higher-education teaching, and system development** to build impactful digital solutions.
 
@@ -37,6 +39,8 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="48" style="margin-right: 8px;"/></a>
   <a href="https://fsharp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" alt="F#" title="F#" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="48" style="margin-right: 8px;"/></a>
+<a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GO" title="GO" height="48" style="margin-right: 8px;"/></a>
+<a href="https://rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.swi-prolog.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" alt="SWI-Prolog" title="SWI-Prolog" height="48" style="margin-right: 8px;"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" height="48" style="margin-right: 8px;"/></a> 
@@ -51,7 +55,8 @@ I bring a **unique blend of academic rigor and production-grade engineering expe
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="48" style="margin-right: 8px;"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="48" style="margin-right: 8px;"/></a>   
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="48" style="margin-right: 8px;"/></a>   
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="48" style="margin-right: 8px;"/></a>
+   <a href="https://duckdb.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" alt="DuckDB" title="DuckDB" height="48" style="margin-right: 8px;"/></a>    
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="48" style="margin-right: 8px;"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="48" style="margin-right: 8px;"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" height="48" style="margin-right: 8px;"/></a>
